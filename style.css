@@ -1,0 +1,22 @@
+body{
+    background-image: linear-gradient(90deg,rgb(0, 247, 255),rgb(0, 195, 255));
+}
+main{
+    width: 512px;
+    margin: auto;
+    background-color: rgb(169, 252, 255);
+    text-align: justify;
+    padding: 10px;
+    border-radius: 10px;
+box-shadow: 5px 5px 15px rgb(0, 95, 119);
+}
+h1{
+color: rgb(0, 141, 184);
+}
+h2{
+color: rgb(43, 82, 82);
+}
+p{
+    color: rgb(0, 36, 34);
+    font-size: 1.1em;
+}
